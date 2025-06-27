@@ -13,7 +13,7 @@
 ## ساختار پروژه
 
 ```
-fraud-detection/
+XGBoost Fraud Detection/
 ├── config.py              # تنظیمات پروژه
 ├── data_utils.py           # مدیریت و پردازش داده‌ها
 ├── models.py               # مدل‌های یادگیری ماشین
@@ -29,7 +29,7 @@ fraud-detection/
 1. کلون کردن پروژه:
 ```bash
 git clone <repository-url>
-cd fraud-detection
+cd XGBoost Fraud Detection
 ```
 
 2. نصب کتابخانه‌ها:
